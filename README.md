@@ -31,7 +31,10 @@ The script automatically:
 ---
 
 ## How to Run the Application
-Clone the repository and run: `python project.py`
+1. Clone the repository:
+git clone https://github.com/ZemengGu1029/DSCI551-Project.git
+cd DSCI551-Project
+2. Run the script: python project.py
 ## What Happens When You Run the Script
 The script performs the following steps automatically:
 1. Deletes any existing database file (`demo.db`)
