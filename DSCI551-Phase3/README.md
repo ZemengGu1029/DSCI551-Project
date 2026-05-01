@@ -32,7 +32,7 @@ The script automatically:
 
 ## How to Run the Application
 1. Clone the repository:
-git clone https://github.com/ZemengGu1029/DSCI551-Project.git
+git clone https://github.com/ZemengGu1029/DSCI551-Project
 cd DSCI551-Project
 2. Run the script: python project.py
 ## What Happens When You Run the Script
