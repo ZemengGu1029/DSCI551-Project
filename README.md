@@ -31,7 +31,7 @@ The script automatically:
 ---
 
 ## How to Run the Application
-Run the following command in the project directory: `python project.py`
+Clone the repository and run: `python project.py`
 ## What Happens When You Run the Script
 The script performs the following steps automatically:
 1. Deletes any existing database file (`demo.db`)
